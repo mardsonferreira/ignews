@@ -1,4 +1,4 @@
-<p align="left">An application to sharing your posts. The post's content is obtained from <a href="https://prismic.io/">Prismic</a> and the app has an integration with the online payment system provided by <a href="https://stripe.com/">Stripe</a> .</p>
+<p align="left">An application to sharing your posts. The post's content is obtained from <a href="https://prismic.io/">Prismic</a> and the app has an integration with the online payment system provided by <a href="https://stripe.com/">Stripe</a>.</p>
 
 <p align="center">
   <img src="https://github.com/mardsonferreira/ignews/blob/main/.github/preview.png" />
